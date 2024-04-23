@@ -1,4 +1,4 @@
-# Weather Analysis App with Python: An application for Weather Analytics made by Python
+# Weather Analysis App with Matlab: An application for Weather Analytics made by Matlab
 
 ## Table of Contents
 * [Introduction](#introduction)
