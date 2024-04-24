@@ -20,7 +20,6 @@ You can run the app by runnning main.mlapp on Matlab.
 ![analyzing](img/analysis.PNG)
 
 ## Contact
-I hope to work with you. If you have projects, you can contact me via Skype ID [live:.cid.b8144cf89d38b550]. I can help you in many areas including software development, web development and simulation. Thanks for your attention.
 
 ## License
 [GNU GPL](LICENSE.txt)
